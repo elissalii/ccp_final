@@ -114,6 +114,11 @@ body.dark-mode .main-nav li.current-page a{
     color: #6b66ff;
 }
 
+body.dark-mode a:visited {
+    color: #ccc;
+    text-decoration: wavy;
+}
+
 .main-nav a.dark-mode{
     color: #cbcbcb;
 }
